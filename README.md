@@ -20,7 +20,7 @@ The repository consists of the following files:
 
 - `UQ MCD Oversampled.ipynb`: This Jupyter notebook demonstrates the uncertainty quantification technique, Monte Carlo Dropout (MCD), for the SWAN model trained on the oversampled dataset.
 
-- `Plots SWAN Ensemble-SWAN.ipynb`: This Jupyter notebook contains code for generating all the figures presented in Section 5.3 of the research paper.
+- `Plots SWAN Ensemble-SWAN.ipynb`: This Jupyter notebook contains code for generating all the figures presented in Section 5 of the research paper.
 
 ## How to Use
 
